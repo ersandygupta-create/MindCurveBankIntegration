@@ -1,0 +1,75 @@
+{
+  "id": "9409b749-89e8-445c-8adf-82da84782eaa",
+  "name": "MindCurve Bank Integration",
+  "publisher": "3E MindCurve",
+  "version": "1.0.0.0",
+  "brief": "MindCurve",
+  "description": "3E MindCurve Bank Integration",
+  "privacyStatement": "https://mindcurve.in",
+  "EULA": "https://mindcurve.in",
+  "help": "https://mindcurve.in",
+  "url": "https://mindcurve.in",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "name": "India Voucher Interface",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "name": "India Reports",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "name": "India TDS",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "name": "India TCS",
+      "version": "1.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50751,
+      "to": 50800
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
